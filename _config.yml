@@ -10,7 +10,7 @@ title: The Tresp Lab
 email: liao@dbs.ifi.lmu.de
 description: > # this means to ignore newlines until "baseurl:"
   Website of the TrespLab.
-baseurl: "/tresplab"
+baseurl: ""
 url: "https://mayhugotong.github.io"
 
 include:
