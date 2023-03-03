@@ -8,23 +8,23 @@ permalink: /
 
 We are a dynamic research group at the [Ludwig-Maximilians-Universität München / LMU Munich](https://www.lmu.de/en/). Our research interests focus on Statistical Relational Learning, which combines machine learning with relational data models and first-order logic and enables machine learning in knowledge bases. An aspect of particular interest is that machine learning tasks such as classification and object recognition can be supported by rich background knowledge. More research interests include
 
-Machine Learning and Deep Learning
-Cognitive Deep Learning
-Machine Learning with the Semantic Web, Linked Data, and Knowledge Graphs
-Statistical Relational Learning
-Tensor decompositions and multiway Neural Networks
-Neural Networks,  Pattern Recognition
-Temporal Models
-Infinite Models: Gaussian Processes, Dirichlet Processes
-Graphical Models, Bayesian Networks
-User Modeling
-Computational Cognition and Cognitive Neuroscience
-Bioinformatics
-Information Extraction, Information Retrieval
-Medical Decision Support Systems, Precision Medicine
-Reinforcement Learning and Multi-Agent Systems
-Multi-modal Machine Learning
-Knowledge enhanced Language Models
+- Machine Learning and Deep Learning
+- Cognitive Deep Learning
+- Machine Learning with the Semantic Web, Linked Data, and Knowledge Graphs
+- Statistical Relational Learning
+- Tensor decompositions and multiway Neural Networks
+- Neural Networks,  Pattern Recognition
+- Temporal Models
+- Infinite Models: Gaussian Processes, Dirichlet Processes
+- Graphical Models, Bayesian Networks
+- User Modeling
+- Computational Cognition and Cognitive Neuroscience
+- Bioinformatics
+- Information Extraction, Information Retrieval
+- Medical Decision Support Systems, Precision Medicine
+- Reinforcement Learning and Multi-Agent Systems
+- Multi-modal Machine Learning
+- Knowledge enhanced Language Models
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
