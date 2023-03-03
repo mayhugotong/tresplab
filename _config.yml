@@ -11,7 +11,7 @@ email: liao@dbs.ifi.lmu.de
 description: > # this means to ignore newlines until "baseurl:"
   Website of the TrespLab.
 baseurl: "mayhugotong.github.io"
-url: "tresplab"
+url: "mayhugotong"
 
 include:
   - .htaccess
