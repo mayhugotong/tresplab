@@ -6,8 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Ludwig-Maximilians-Universität München / LMU Munich](https://www.lmu.de/en/). Our research interests focus on Statistical Relational Learning, which combines machine learning with relational data models and first-order logic and enables machine learning in knowledge bases. An aspect of particular interest is that machine learning tasks such as classification and object recognition can be supported by rich background knowledge. More research interests include
+We are a dynamic research group at the [Ludwig-Maximilians-Universität München / LMU Munich](https://www.lmu.de/en/). Our research interests focus on Statistical Relational Learning, which combines machine learning with relational data models and first-order logic and enables machine learning in knowledge bases. An aspect of particular interest is that machine learning tasks such as classification and object recognition can be supported by rich background knowledge. 
 
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ 
+ More research interests include
 - Machine Learning and Deep Learning
 - Cognitive Deep Learning
 - Machine Learning with the Semantic Web, Linked Data, and Knowledge Graphs
@@ -70,7 +73,7 @@ We are a dynamic research group at the [Ludwig-Maximilians-Universität München
   </a>
 </div>
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
  
 
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
